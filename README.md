@@ -6,9 +6,16 @@ Voici la sortie apres l'execution de Wordcount sans Mapreduce
 ![sortie wordcount](https://github.com/user-attachments/assets/3c1a58ab-8506-4506-9016-f0435b9b2881)
 
 
+Tandis que mapper.py et reducer.py sont les codes python implementé pour le Wordcount avec MapReduce
+
+![cd](https://github.com/user-attachments/assets/6814087d-0972-4c72-99bc-bb1d4ffe8310)
+
+
+![input et copy](https://github.com/user-attachments/assets/d2c79693-c314-44d0-919f-4c360b401ff2)
 
 
 
-tandis que mapper.py et reducer.py sont les codes python implementé pour le Wordcount avec MapReduce
+
+
 
 
