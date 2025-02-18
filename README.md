@@ -13,6 +13,7 @@ Tandis que mapper.py et reducer.py sont les codes python implementé pour le Wor
 
 ![input et copy](https://github.com/user-attachments/assets/d2c79693-c314-44d0-919f-4c360b401ff2)
 
+D'apres le contenue du fichier dans le dossier output on peut voir qu'on a le meme resultat que le WordCount sans MapReduce
 
 ![execution](https://github.com/user-attachments/assets/73cb6e0a-1ce1-437f-9f3c-17911de5d36e)
 
