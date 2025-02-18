@@ -17,7 +17,7 @@ Execution du mapper et du reducer avec le fichier Senegal.txt
 
 ![execution](https://github.com/user-attachments/assets/73cb6e0a-1ce1-437f-9f3c-17911de5d36e)
 
-D'apres le contenue du fichier dans le dossier output on peut voir qu'on a le meme resultat que le WordCount sans MapReduce
+D'apres le contenue du fichier part-0000 dans le dossier output on peut voir qu'on a le meme resultat que le WordCount sans MapReduce
 
 ![sortie vagrant](https://github.com/user-attachments/assets/c0b11551-3ea3-4897-83f6-9757064e5f76)
 
